@@ -1,5 +1,4 @@
 # StopWatch
-# 코틀린으로 간단한 스톱워치 만들기
 # 시작
 ![스톱워치 시작](https://user-images.githubusercontent.com/81170921/164183350-4704ecb0-d5be-47a5-b0eb-0146f2b605b7.PNG)
 
